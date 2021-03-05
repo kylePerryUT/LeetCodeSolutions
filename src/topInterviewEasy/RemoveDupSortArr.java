@@ -1,4 +1,4 @@
-package easy;
+package topInterviewEasy;
 
 public class RemoveDupSortArr {
 
